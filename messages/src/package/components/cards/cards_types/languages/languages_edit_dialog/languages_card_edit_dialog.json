@@ -1,0 +1,10 @@
+[
+  {
+    "id": "Languages.editDialog.title",
+    "defaultMessage": "Your languages"
+  },
+  {
+    "id": "Main.lang.delete",
+    "defaultMessage": "Delete"
+  }
+]

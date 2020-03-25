@@ -1,0 +1,10 @@
+[
+  {
+    "id": "DeveloperProfile.locationField.label",
+    "defaultMessage": "Location"
+  },
+  {
+    "id": "DeveloperProfile.locationField.placeholder",
+    "defaultMessage": "Paris, France"
+  }
+]
