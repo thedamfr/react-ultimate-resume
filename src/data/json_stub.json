@@ -1,252 +1,264 @@
 {
-    "basics": {
-        "name": "Damien Cavaillès",
-        "picture": "https://app-39b8375c-7755-47aa-a0c4-7a46f544ee72.cleverapps.io/?accessoriesType=Blank&eyeType=Surprised&eyebrowType=UpDownNatural&facialHairColor=Black&facialHairType=BeardMedium&hairColor=Black&mouthType=Smile&skinColor=Brown&topType=ShortHairDreads01",
-        "title": "Fondateur",
-        "summary": "Je suis vraiment gentil 🙂",
-        "location": {}
+  "basics": {
+    "name": "Écureuil volant affamé",
+    "picture": "https://app-39b8375c-7755-47aa-a0c4-7a46f544ee72.cleverapps.io/?accessoriesType=Blank&eyeType=Surprised&eyebrowType=UpDownNatural&facialHairColor=Black&facialHairType=BeardMedium&hairColor=Black&mouthType=Smile&skinColor=Brown&topType=ShortHairDreads01&clotheType=GraphicShirt&clotheColor=W3D&graphicType=W3DLogo",
+    "title": "Fondateur",
+    "summary": "Je suis vraiment gentil 🙂",
+    "location": {}
+  },
+  "work": [
+    {
+      "name": "WeLoveDevs.com",
+      "position": "Fondateur",
+      "index": 0,
+      "startDate": "2015-12-01",
+      "summary": "France\nWeLoveDevs.com a été créé par deux développeurs, comme un site de\ncontenu pour leurs pairs qui cherchent une entreprise où ils seront heureux.\nSur un marché en tension, avec 40K recrutements par ans, WeLoveDevs\nse rend incontournable grâce à l'attention de 10K visiteurs uniques par mois\nsur le site web et plus de 150K personnes par semaine touchées par leurs\ncontenus sur Facebook. Les solutions de WeLoveDevs comprennent des\npages entreprises, des emplacements annonces, un vivier chaud avec 80% de\ntaux de réponse, et des solutions de campagnes média sur-mesure.",
+      "id": "-M2sGPDMUqt1ZJG6Ggmy"
     },
-    "work": [
-        {
-            "name": "WeLoveDevs.com",
-            "position": "Fondateur",
-            "index": 0,
-            "startDate": "2015-12-01",
-            "summary": "France\nWeLoveDevs.com a été créé par deux développeurs, comme un site de\ncontenu pour leurs pairs qui cherchent une entreprise où ils seront heureux.\nSur un marché en tension, avec 40K recrutements par ans, WeLoveDevs\nse rend incontournable grâce à l'attention de 10K visiteurs uniques par mois\nsur le site web et plus de 150K personnes par semaine touchées par leurs\ncontenus sur Facebook. Les solutions de WeLoveDevs comprennent des\npages entreprises, des emplacements annonces, un vivier chaud avec 80% de\ntaux de réponse, et des solutions de campagnes média sur-mesure.",
-            "id": "-M2sGPDMUqt1ZJG6Ggmy"
-        },
-        {
-            "name": "Tripndrive",
-            "position": "Développeur Mobile",
-            "index": 1,
-            "startDate": "2014-11-01",
-            "endDate": "2015-10-01",
-            "summary": "Paris\nTripndrive est une startup faisant de l'autopartage entre voyageur.\nLorsque vous prenez l'avion ou le train, bénéficiez d'un parking gratuit et\nrecevez une participation lorsque celle-ci est louée par un autre utilisateur.\nA l'inverse lorsque vous arrivez dans un aéroport ou une gare offrant le\nservice Tripndrive, bénéficiez de tarifs jusqu'à 60% moins chers qu'un loueur\ntraditionnel en prenant une voiture chez Tripndrive.\nMon rôle est de gérer le mobile de manière général. Nos applications\naccompagnent les utilisateurs tout le long de leur expérience.",
-            "id": "-M2sGPDMUqt1ZJG6Ggn-"
-        },
-        {
-            "name": "Freelance",
-            "position": "Freelance",
-            "index": 2,
-            "startDate": "2014-07-01",
-            "endDate": "2017-01-01",
-            "summary": "Région de Lille, France\nDéveloppeur en Freelance.\nMes clients sont principalement de jeunes startups que j'accompagne sur\nl'aspect technique, en particulier sur les questions de mobilité.\nRéférences :\n* Tripnco\n* Simplifield\n* MobileAngelo\n* Ecota.co",
-            "id": "-M2sGPDMUqt1ZJG6Ggmz"
-        },
-        {
-            "name": "Ikomobi",
-            "position": "Développeur Mobile",
-            "index": 3,
-            "startDate": "2014-01-01",
-            "endDate": "2014-07-01",
-            "summary": "Lille\nNous construisons des solutions mobiles et innovantes pour nos clients, en\nparticulier dans le e-commerce.\nEn tant que membre de l'équipe iOS, j'ai pu utiliser mes compétences en\ngénie logiciel pour contribuer à des missions comme le développement de\nl'application AuchanDrive, le refactoring de bases de codes obsolètes lourdes,\nou encore le développement de PoC et de prototypes innovants pour nos\nclients, en particulier dans le domaine des objets connectés.\nJ'ai pu apporter de bonnes pratiques : utilisation avancée de Git, utilisation\navancée de CocoaPods, utilisation de Tests d'intégration (Calabash) et\nd'autres.",
-            "id": "-M2sGPDMUqt1ZJG6Ggn0"
-        },
-        {
-            "name": "Altran",
-            "position": "Software Engineer - Mobile Factory",
-            "index": 4,
-            "startDate": "2013-07-01",
-            "endDate": "2013-12-01",
-            "summary": "Lille\nConception et Réalistion de solutions innovantes et mobiles.\niOS, Android, PHP, Java\nRéalisation des déclinaisons natives Android et iOS d'une application pour une\nagence Web. Les deux projets se caractérisaient par une dimension time-to-\nmarket importante. L'exigence la plus rigoureuse fut une intégration précise et\nexacte. L'application est disponibles sur l'AppStore.",
-            "id": "-M2sGPDMUqt1ZJG6Ggn1"
-        },
-        {
-            "name": "Kojoa",
-            "position": "Entrepreneur",
-            "index": 5,
-            "startDate": "2012-06-01",
-            "endDate": "2013-04-01",
-            "summary": "Développement Produit\nDirection technique\nRéalisation\nKojoa est un service de Co-Voiturage dynamique.\nTechnologies :\nRuby on Rails - REST\nApplications Mobiles : Géolocalisation, Temps Réel, Push\nAndroid et iOS",
-            "id": "-M2sGPDMUqt1ZJG6Ggn2"
-        },
-        {
-            "name": "Cake@Home",
-            "position": "Mobile Application Developper",
-            "index": 6,
-            "startDate": "2011-11-01",
-            "endDate": "2012-07-01",
-            "summary": "Cake@Home s’adresse aux services de restauration rapide, en livraison,\nà emporter, ou même sur place. Fini les files d’attentes interminables pour\navoir son sandwich. Exploitant au maximum les possibilités offertes par\nles Smartphones et l’internet mobile, il s’agit du fast-food à la pointe de\nl’innovation.\nC'est un projet mené par trois étudiants de l'ISEN dont la tâche a été de\nréaliser un système d'information basé sur un ensemble de technologies\nhétérogènes (WebServices DotNet, SOAP, Android, Silverlight, Kokoa, et des\nTechnos Webs).\nCake@Home et son équipe ont été sélectionnés, en raison de leur qualité\net de leur potentiel innovant, pour accéder aux phases finales du concours\nId'Mobile d'Alten (http://www.alten.fr/idmobile/).",
-            "id": "-M2sGPDMUqt1ZJG6Ggn3"
-        }
-    ],
-    "education": [
-        {
-            "id": "-M2sGPDNfKFTWodbKuRO",
-            "institution": "ISEN - Page école - École d'ingénieurs des Hautes Technologies et",
-            "index": 0,
-            "studyType": "du Numérique Master - Diplome d'Ingénieur ISEN, Multimedia, Information, System and Network, Multimedia, Information, System and Network",
-            "endDate": "2013-01-01"
-        },
-        {
-            "id": "-M2sGPDNfKFTWodbKuRP",
-            "institution": "Université du Québec à Chicoutimi",
-            "index": 1,
-            "studyType": "Maitrise (MSc.), Information Technology",
-            "endDate": "2013-01-01"
-        },
-        {
-            "id": "-M2sGPDNfKFTWodbKuRR",
-            "institution": "Classes Préparatoires ISEN",
-            "index": 3,
-            "studyType": "MPSI, PSI",
-            "endDate": "2010-01-01"
-        },
-        {
-            "id": "-M2sGPDNfKFTWodbKuRS",
-            "institution": "Lycée - Aix-en-Provence",
-            "index": 4,
-            "studyType": "Baccalauréat, Scientifique Spécialité Math, Mention Bien, Scientifique Spécialité Math, Mention Bien",
-            "endDate": "2008-01-01"
-        }
-    ],
-    "skills": [
-        {
-            "name": "NodeJS",
-            "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fnodejs.svg?alt=media&token=a2570931-22f4-49dd-9510-e036f3e05e5c",
-            "tags": ["javascript", "language"],
-            "url": "https://cdn.filestackcontent.com/7MhNX9D9TnSlvNFxgGWD",
-            "value": 70,
-            "versions": {
-                "font": ["plain", "plain-wordmark"],
-                "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
-            }
-        },
-        {
-            "name": "Ruby",
-            "tags": ["programming", "language"],
-            "url": "https://cdn.filestackcontent.com/sCQlQ7I4QqaXVKQDwJnd",
-            "value": 70
-        },
-        {
-            "name": "Typescript",
-            "tags": ["programming", "transpiler"],
-            "url": "https://cdn.filestackcontent.com/VIF9M8ebQjukQ4oqAkdP",
-            "value": 70
-        }
-    ],
-    "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" }
-    ],
-    "interests": [
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-        {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-        },
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
-    ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
-    "projects": [
-        {
-            "date": "2016-03-20T14:26:42.288Z",
-            "description": "Il fallait commencer par changer d'appartement\nDu coup j'ai rangé mes affaires dans des cartons et ensuite j'ai appelé jack",
-            "endDate": "2016-03-20",
-            "id": "65c9acee-28e0-473a-b8ca-256defab395c",
-            "link": "https://welovedevs.com",
-            "name": "Changer le monde"
-        }
-    ],
-    "specific": {
-        "basics": { "visaSponsorship": false },
-        "dreamJob": {
-            "locations": [
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" }
-            ],
-            "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
-        "work": {
-            "contractTypes": ["permanent"],
-            "codingYears": 5,
-            "searchState": "dreamjobOnly",
-            "experienceYears": 5
-        },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/5RUx6oXQIWryPnEkzHLPCG?si=RxpR6dgpTOGsOjSQVIIjbA"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+    {
+      "name": "Tripndrive",
+      "position": "Développeur Mobile",
+      "index": 1,
+      "startDate": "2014-11-01",
+      "endDate": "2015-10-01",
+      "summary": "Paris\nTripndrive est une startup faisant de l'autopartage entre voyageur.\nLorsque vous prenez l'avion ou le train, bénéficiez d'un parking gratuit et\nrecevez une participation lorsque celle-ci est louée par un autre utilisateur.\nA l'inverse lorsque vous arrivez dans un aéroport ou une gare offrant le\nservice Tripndrive, bénéficiez de tarifs jusqu'à 60% moins chers qu'un loueur\ntraditionnel en prenant une voiture chez Tripndrive.\nMon rôle est de gérer le mobile de manière général. Nos applications\naccompagnent les utilisateurs tout le long de leur expérience.",
+      "id": "-M2sGPDMUqt1ZJG6Ggn-"
     },
-    "customization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
-        "theme": {
-            "palette": {
-                "primary": {
-                    "50": "#ffecf0",
-                    "100": "#ffd9e0",
-                    "200": "#ffb4c1",
-                    "300": "#fe8ea3",
-                    "400": "#fe6984",
-                    "500": "#fe4365",
-                    "600": "#cb3651",
-                    "700": "#98283d",
-                    "800": "#661b28",
-                    "900": "#330d14",
-                    "contrastDefaultColor": "light"
-                },
-                "secondary": {
-                    "50": "#fff5f5",
-                    "100": "#feebeb",
-                    "200": "#fed8d7",
-                    "300": "#fdc4c2",
-                    "400": "#fdb1ae",
-                    "500": "#fc9d9a",
-                    "600": "#ca7e7b",
-                    "700": "#975e5c",
-                    "800": "#653f3e",
-                    "900": "#321f1f",
-                    "contrastDefaultColor": "light"
-                },
-                "tertiary": {
-                    "50": "#fefaf7",
-                    "100": "#fef5ef",
-                    "200": "#fdebde",
-                    "300": "#fbe1ce",
-                    "400": "#fad7bd",
-                    "500": "#f9cdad",
-                    "600": "#c7a48a",
-                    "700": "#957b68",
-                    "800": "#645245",
-                    "900": "#322923",
-                    "contrastDefaultColor": "light"
-                }
-            }
-        },
-        "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
-        ]
+    {
+      "name": "Freelance",
+      "position": "Freelance",
+      "index": 2,
+      "startDate": "2014-07-01",
+      "endDate": "2017-01-01",
+      "summary": "Région de Lille, France\nDéveloppeur en Freelance.\nMes clients sont principalement de jeunes startups que j'accompagne sur\nl'aspect technique, en particulier sur les questions de mobilité.\nRéférences :\n* Tripnco\n* Simplifield\n* MobileAngelo\n* Ecota.co",
+      "id": "-M2sGPDMUqt1ZJG6Ggmz"
+    },
+    {
+      "name": "Ikomobi",
+      "position": "Développeur Mobile",
+      "index": 3,
+      "startDate": "2014-01-01",
+      "endDate": "2014-07-01",
+      "summary": "Lille\nNous construisons des solutions mobiles et innovantes pour nos clients, en\nparticulier dans le e-commerce.\nEn tant que membre de l'équipe iOS, j'ai pu utiliser mes compétences en\ngénie logiciel pour contribuer à des missions comme le développement de\nl'application AuchanDrive, le refactoring de bases de codes obsolètes lourdes,\nou encore le développement de PoC et de prototypes innovants pour nos\nclients, en particulier dans le domaine des objets connectés.\nJ'ai pu apporter de bonnes pratiques : utilisation avancée de Git, utilisation\navancée de CocoaPods, utilisation de Tests d'intégration (Calabash) et\nd'autres.",
+      "id": "-M2sGPDMUqt1ZJG6Ggn0"
+    },
+    {
+      "name": "Altran",
+      "position": "Software Engineer - Mobile Factory",
+      "index": 4,
+      "startDate": "2013-07-01",
+      "endDate": "2013-12-01",
+      "summary": "Lille\nConception et Réalistion de solutions innovantes et mobiles.\niOS, Android, PHP, Java\nRéalisation des déclinaisons natives Android et iOS d'une application pour une\nagence Web. Les deux projets se caractérisaient par une dimension time-to-\nmarket importante. L'exigence la plus rigoureuse fut une intégration précise et\nexacte. L'application est disponibles sur l'AppStore.",
+      "id": "-M2sGPDMUqt1ZJG6Ggn1"
+    },
+    {
+      "name": "Kojoa",
+      "position": "Entrepreneur",
+      "index": 5,
+      "startDate": "2012-06-01",
+      "endDate": "2013-04-01",
+      "summary": "Développement Produit\nDirection technique\nRéalisation\nKojoa est un service de Co-Voiturage dynamique.\nTechnologies :\nRuby on Rails - REST\nApplications Mobiles : Géolocalisation, Temps Réel, Push\nAndroid et iOS",
+      "id": "-M2sGPDMUqt1ZJG6Ggn2"
+    },
+    {
+      "name": "Cake@Home",
+      "position": "Mobile Application Developper",
+      "index": 6,
+      "startDate": "2011-11-01",
+      "endDate": "2012-07-01",
+      "summary": "Cake@Home s’adresse aux services de restauration rapide, en livraison,\nà emporter, ou même sur place. Fini les files d’attentes interminables pour\navoir son sandwich. Exploitant au maximum les possibilités offertes par\nles Smartphones et l’internet mobile, il s’agit du fast-food à la pointe de\nl’innovation.\nC'est un projet mené par trois étudiants de l'ISEN dont la tâche a été de\nréaliser un système d'information basé sur un ensemble de technologies\nhétérogènes (WebServices DotNet, SOAP, Android, Silverlight, Kokoa, et des\nTechnos Webs).\nCake@Home et son équipe ont été sélectionnés, en raison de leur qualité\net de leur potentiel innovant, pour accéder aux phases finales du concours\nId'Mobile d'Alten (http://www.alten.fr/idmobile/).",
+      "id": "-M2sGPDMUqt1ZJG6Ggn3"
     }
+  ],
+  "education": [
+    {
+      "id": "-M2sGPDNfKFTWodbKuRO",
+      "institution": "ISEN - Page école - École d'ingénieurs des Hautes Technologies et",
+      "index": 0,
+      "studyType": "du Numérique Master - Diplome d'Ingénieur ISEN, Multimedia, Information, System and Network, Multimedia, Information, System and Network",
+      "endDate": "2013-01-01"
+    },
+    {
+      "id": "-M2sGPDNfKFTWodbKuRP",
+      "institution": "Université du Québec à Chicoutimi",
+      "index": 1,
+      "studyType": "Maitrise (MSc.), Information Technology",
+      "endDate": "2013-01-01"
+    },
+    {
+      "id": "-M2sGPDNfKFTWodbKuRR",
+      "institution": "Classes Préparatoires ISEN",
+      "index": 3,
+      "studyType": "MPSI, PSI",
+      "endDate": "2010-01-01"
+    },
+    {
+      "id": "-M2sGPDNfKFTWodbKuRS",
+      "institution": "Lycée - Aix-en-Provence",
+      "index": 4,
+      "studyType": "Baccalauréat, Scientifique Spécialité Math, Mention Bien, Scientifique Spécialité Math, Mention Bien",
+      "endDate": "2008-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "NodeJS",
+      "oldUrl": "https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/devicons%2Ficons%2Fnodejs.svg ?alt=media&token=a2570931-22f4-49dd-9510-e036f3e05e5c",
+      "tags": ["javascript", "language"],
+      "url": "https://cdn.filestackcontent.com/7MhNX9D9TnSlvNFxgGWD",
+      "value": 70,
+      "versions": {
+        "font": ["plain", "plain-wordmark"],
+        "svg": ["original", "original-wordmark", "plain", "plain-wordmark"]
+      }
+    },
+    {
+      "name": "Ruby",
+      "tags": ["programming", "language"],
+      "url": "https://cdn.filestackcontent.com/sCQlQ7I4QqaXVKQDwJnd",
+      "value": 70
+    },
+    {
+      "name": "Typescript",
+      "tags": ["programming", "transpiler"],
+      "url": "https://cdn.filestackcontent.com/VIF9M8ebQjukQ4oqAkdP",
+      "value": 70
+    }
+  ],
+  "languages": [
+    {
+      "name": "Anglais",
+      "position": 0,
+      "value": 70,
+      "language": "Anglais",
+      "id": "-M2sGPDMUqt1ZJG6Ggmw"
+    },
+    {
+      "name": "Allemand",
+      "position": 1,
+      "value": 30,
+      "language": "Allemand",
+      "id": "-M2sGPDMUqt1ZJG6Ggmx"
+    }
+  ],
+  "interests": [
+    {
+      "gifUrl": "https://media.giphy.com/media/VZyjmjA9I0fDO/giphy.gif",
+      "id": "0ee1dd72-817f-404e-ad2e-cae148575b26",
+      "index": 0,
+      "name": "La danse"
+    }
+  ],
+  "projects": [
+    {
+      "date": { "month": 2, "year": 2016 },
+      "description": "Il fallait commencer par changer d'appartement\nDu coup j'ai rangé mes affaires dans des cartons et ensuite j'ai appelé jack",
+      "id": "65c9acee-28e0-473a-b8ca-256defab395c",
+      "link": "https://welovedevs.com",
+      "name": "Changer le monde",
+      "old_endDate": "2016-03-20",
+      "endDate": "2016-03-01"
+    }
+  ],
+  "specific": {
+    "basics": { "visaSponsorship": false },
+    "dreamJob": {
+      "locations": [
+        {
+          "id": "ChIJ6-LQkwZljEcRObwLezWVtqA",
+          "index": 2,
+          "placeId": "ChIJ6-LQkwZljEcRObwLezWVtqA",
+          "name": "Genève, Suisse"
+        },
+        {
+          "id": "ChIJEW4ls3nVwkcRYGNkgT7xCgQ",
+          "index": 3,
+          "placeId": "ChIJEW4ls3nVwkcRYGNkgT7xCgQ",
+          "name": "Lille, France"
+        },
+        {
+          "id": "ChIJL5kSeroCdkgRQUpeeoUh2AQ",
+          "index": 4,
+          "placeId": "ChIJL5kSeroCdkgRQUpeeoUh2AQ",
+          "name": "Canary Wharf, Londres, Royaume-Uni"
+        },
+        {
+          "id": "ChIJl4foalHq9EcR8CG75CqrCAQ",
+          "index": 2,
+          "placeId": "ChIJl4foalHq9EcR8CG75CqrCAQ",
+          "name": "Lyon, France"
+        },
+        {
+          "id": "ChIJra6o8IHuBUgRMO0NHlI3DQQ",
+          "index": 2,
+          "placeId": "ChIJra6o8IHuBUgRMO0NHlI3DQQ",
+          "name": "Nantes, France"
+        }
+      ],
+      "salary": "49",
+      "perks": { "challenge": true, "training": true },
+      "remoteFrequency": "occasionally"
+    },
+    "currentJob": {},
+    "education": { "studiesLevel": 5 },
+    "work": {
+      "contractTypes": ["permanent"],
+      "codingYears": 5,
+      "searchState": "activelySearching",
+      "experienceYears": 5
+    },
+    "sound": {
+      "embedUrl": "https://open.spotify.com/embed/playlist/5RUx6oXQIWryPnEkzHLPCG?si=0CBFqkDORyirG5IverB-Lw"
+    },
+    "interestedBy": "J'aimerai apprendre Python"
+  },
+  "resumeCustomization": {
+    "imageHeader": {
+      "url": "https://cdn.filestackcontent.com/oeRDnDcNSSKJqQNYOX8K",
+      "alt": "Default Banner Tile Swag"
+    },
+    "theme": {
+      "palette": {
+        "primary": {
+          "50": "#e6f6f9",
+          "100": "#cceef4",
+          "200": "#99dce8",
+          "300": "#66cbdd",
+          "400": "#33b9d1",
+          "500": "#00a8c6",
+          "600": "#00869e",
+          "700": "#006577",
+          "800": "#00434f",
+          "900": "#002228",
+          "contrastDefaultColor": "light"
+        },
+        "secondary": {
+          "50": "#ecf9fa",
+          "100": "#d9f2f5",
+          "200": "#b3e6ea",
+          "300": "#8cd9e0",
+          "400": "#66cdd5",
+          "500": "#40c0cb",
+          "600": "#339aa2",
+          "700": "#26737a",
+          "800": "#1a4d51",
+          "900": "#0d2629",
+          "contrastDefaultColor": "light"
+        },
+        "tertiary": {
+          "50": "#fefefd",
+          "100": "#fefcfa",
+          "200": "#fdfaf5",
+          "300": "#fbf7f1",
+          "400": "#faf5ec",
+          "500": "#f9f2e7",
+          "600": "#c7c2b9",
+          "700": "#95918b",
+          "800": "#64615c",
+          "900": "#32302e",
+          "contrastDefaultColor": "light"
+        }
+      }
+    }
+  }
 }
