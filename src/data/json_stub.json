@@ -126,17 +126,30 @@
         }
     ],
     "languages": [
-        { "name": "Anglais", "position": 0, "value": 70, "language": "Anglais", "id": "-M2sGPDMUqt1ZJG6Ggmw" },
-        { "name": "Allemand", "position": 1, "value": 30, "language": "Allemand", "id": "-M2sGPDMUqt1ZJG6Ggmx" }
+        { "language": "English", "value": 100, "fluency": "Native speaker" }
     ],
     "interests": [
         {
-            "gifUrl": "https://media.giphy.com/media/VZyjmjA9I0fDO/giphy.gif",
-            "id": "0ee1dd72-817f-404e-ad2e-cae148575b26",
-            "index": 0,
-            "name": "La danse"
+            "name": "Burritos",
+            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+        },
+        {
+            "name": "Dogs",
+            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+        },
+        {
+            "name": "Tendresse",
+            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+        },
+        {
+            "name": "Something",
+            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+        },
+        {
+            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
         }
     ],
+    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
             "date": "2016-03-20T14:26:42.288Z",
@@ -150,12 +163,19 @@
     "specific": {
         "basics": { "visaSponsorship": false },
         "dreamJob": {
-            "locations": [{ "id": "ChIJEW4ls3nVwkcRYGNkgT7xCgQ", "index": 0, "name": "Lille, France" }],
-            "salary": "49",
-            "perks": { "challenge": true, "training": true },
-            "remoteFrequency": "occasionally"
+            "locations": [
+                { "name": "Lille, France" },
+                { "name": "Paris,France" },
+                { "name": "Valenciennes, France" },
+                { "name": "Lille, France" },
+                { "name": "Paris,France" },
+                { "name": "Valenciennes, France" }
+            ],
+            "remoteFrequency": "regularly"
         },
-        "currentJob": {},
+        "currentJob": {
+            "issues": { "boring_management": true, "boring_team": true }
+        },
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
@@ -164,8 +184,69 @@
             "experienceYears": 5
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/album/2Jy8Dcl8uBnDiYKuMWk3Uj?si=I5DTNgtRRyeXHQKrkIdLAQ"
+            "embedUrl": "https://open.spotify.com/embed/playlist/5RUx6oXQIWryPnEkzHLPCG?si=RxpR6dgpTOGsOjSQVIIjbA"
         },
-        "interestedBy": "J'aimerai apprendre Python"
+        "interestedBy": "Angular, la blochain et les chatons."
+    },
+    "customization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ffecf0",
+                    "100": "#ffd9e0",
+                    "200": "#ffb4c1",
+                    "300": "#fe8ea3",
+                    "400": "#fe6984",
+                    "500": "#fe4365",
+                    "600": "#cb3651",
+                    "700": "#98283d",
+                    "800": "#661b28",
+                    "900": "#330d14",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#fff5f5",
+                    "100": "#feebeb",
+                    "200": "#fed8d7",
+                    "300": "#fdc4c2",
+                    "400": "#fdb1ae",
+                    "500": "#fc9d9a",
+                    "600": "#ca7e7b",
+                    "700": "#975e5c",
+                    "800": "#653f3e",
+                    "900": "#321f1f",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefaf7",
+                    "100": "#fef5ef",
+                    "200": "#fdebde",
+                    "300": "#fbe1ce",
+                    "400": "#fad7bd",
+                    "500": "#f9cdad",
+                    "600": "#c7a48a",
+                    "700": "#957b68",
+                    "800": "#645245",
+                    "900": "#322923",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ]
     }
 }

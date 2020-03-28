@@ -27,24 +27,24 @@ function App() {
     const classes = useStyles();
     const [data, setData] = useState(JsonStub);
 
-    const onEdit = useCallback(newData => setData(mergeWith(cloneDeep(data), newData, mergeFunction)), [
-        JSON.stringify(data)
+    const onEdit = useCallback((newData) => setData(mergeWith(cloneDeep(data), newData, mergeFunction)), [
+        JSON.stringify(data),
     ]);
-    const [customization, setCustomization] = useState({});
+    const [customization, setCustomization] = useState(data.resumeCustomization || {});
 
     const onCustomizationChanged = useCallback(setCustomization, [data]);
 
     const handleClick = useCallback(async () => {
         // eslint-disable-next-line no-undef
-        const blob = new Blob([JSON.stringify(data)], {
-            type: 'text/plain; charset=utf-8'
+        const blob = new Blob([JSON.stringify({ ...data, resumeCustomization: customization })], {
+            type: 'text/plain; charset=utf-8',
         });
         download(
             blob,
             `${`Resume-${data?.basics?.name || 'Developer'}`.replace(' ', '-')}.json`,
             'text/plain; charset=utf-8'
         );
-    }, [JSON.stringify(data)]);
+    }, [JSON.stringify(data), JSON.stringify(customization)]);
 
     return (
         <DeveloperProfile
@@ -55,13 +55,13 @@ function App() {
             options={{
                 // side: 'back',
                 apiKeys: {
-                    giphy: process.env.REACT_APP_GIPHY
+                    giphy: process.env.REACT_APP_GIPHY,
                 },
                 endpoints: {
                     devicons:
-                        'https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/technologies%2Ftechnologies_list.json?alt=media&token=459028ba-d9bc-4480-a3c4-88633afab7e2'
+                        'https://firebasestorage.googleapis.com/v0/b/jechercheundev.appspot.com/o/technologies%2Ftechnologies_list.json?alt=media&token=459028ba-d9bc-4480-a3c4-88633afab7e2',
                 },
-                customization
+                customization,
             }}
             additionalNodes={{
                 banner: {
@@ -70,8 +70,8 @@ function App() {
                             <SaveIcon className={classes.saveIcon} />
                             <FormattedMessage id="Profile.header.jsonResume.download" defaultMessage="Export" />
                         </Button>
-                    )
-                }
+                    ),
+                },
             }}
         />
     );
