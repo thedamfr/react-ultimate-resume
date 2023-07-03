@@ -1,0 +1,271 @@
+{
+    "basics": {
+        "name": "Rose A. Wright",
+        "label": "Programmer",
+        "image": "",
+        "email": "wright.rose@gmail.com",
+        "phone": "(682) 329-0010",
+        "url": "https://rosewright.io",
+        "summary": "A summary of Rose…",
+        "location": {
+          "address": "4720 Waterford DR",
+          "postalCode": "TX 76179",
+          "city": "Fort Worth",
+          "countryCode": "US",
+          "region": "Texas"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "@john"
+            },
+            {
+                "network": "Portfolio",
+                "url": "https://myawesome.portfolio.rocket.fr"
+            },
+            {
+                "network": "codingame",
+                "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
+            }, {
+                "network": "github",
+                "username": "clementdevos"
+            },
+            {
+                "network": "linkedin",
+                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "City of Fort Worth",
+            "position": "Sr IT Programmer/Analyst",
+            "url": "https://www.cityoffortworth.com",
+            "startDate": "2015-03-23",
+            "endDate": "2022-11-01",
+            "summary": "Description…",
+            "highlights": [
+              "mashed buttons"
+            ]
+          },
+          {
+            "name": "Marine Corps Community Services Okinawa",
+            "position": "Duty Manager Foster Bowling Center",
+            "website": "http://company.com",
+            "startDate": "2010-01-01",
+            "summary": "Description...",
+            "location": "Okinawa, Japan",
+            "highlights": ["learned too much about bowling"]
+        },
+        {
+            "name": "Digium",
+            "position": "Business Phone Systems Technician",
+            "website": "http://company.com",
+            "startDate": "2010-01-01",
+            "endDate": "2011-01-01",
+            "summary": "PBX for small to mid sized companies",
+            "location": "San Diego, California",
+            "highlights": ["Troubleshooting, IVR, PBX, Asterisk, WireShark, worked with resellers and customers, RMAs, QA Case submittals"]
+        },
+        {
+            "name": "National Electronics Warranty - DirecTV",
+            "position": "Technical Solutions Rep",
+            "website": "http://company.com",
+            "summary": "3rd Tier support for DirecTV satellite tv",
+            "location": "Remote, Jacksonville, North Carolina",
+            "highlights": ["troubleshooting, Documentation, service calls, RMAs, Trained other Reps"]
+        },       {
+            "name": "Nexxlinx - Time Warner Cable",
+            "position": "Retention Agent",
+            "website": "http://company.com",
+            "summary": "Retention Agent for Time Warner Cable",
+            "location": "Jacksonville, North Carolina",
+            "highlights": ["inbound calls, customer service skills, customer accounts, call flow, upselling, billing inquiries, technical supportr, customer escalation handling"]
+        }
+
+
+
+
+    ],
+    "volunteer": [
+        {
+            "organization": "FFRF",
+            "position": "Volunteer",
+            "website": "http://freedomfromreligionfoundation.org/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Navarro College",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "A.A.S",
+            "startDate": "2003-08-01",
+            "endDate": "2005-05-31",
+            "score": "4.0",
+            "courses": [
+              "DB1101 - Basic SQL"
+            ]
+          },
+        {
+            "institution": "Kemp High School",
+            "area": "High School Diploma",
+            "studyType": "Computer Science",
+            "startDate": "1999-01-01",
+            "endDate": "2003-01-01",
+            "gpa": "4.0",
+            "courses": ["C++, Desktop Publishing"]
+        },
+        {
+            "institution": "Tarrant County Community College",
+            "area": "Computer Science",
+            "studyType": "Bachelor Prereqs",
+            "startDate": "2011-01-01",
+            "endDate": "",
+            "gpa": "4.0",
+            "courses": ["Math and other borings"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ]
+          },
+        {
+            "name": "React",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Angular",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "NodeJS",
+            "level": "Master",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Firebase",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Gmail",
+            "level": "Master",
+            "value": 20,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "K8S",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        { "language": "English", "value": 100, "fluency": "Native speaker" },
+        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+    ],  "interests": [
+        {
+          "name": "Wildlife",
+          "keywords": [
+            "Ferrets",
+            "Unicorns"
+          ]
+        }
+      ],
+        "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+        "projects": [
+            {
+              "name": "Project",
+              "startDate": "2019-01-01",
+              "endDate": "2021-01-01",
+              "summary": "Summary...",
+              "highlights": [
+                "Won award at AIHacks 2016"
+              ],
+              "url": "https://project.com/"
+            }
+          ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+        },
+        "dreamJob": {
+            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": {
+            "issues": { "z": true, "boring_team": true }
+        },
+        "education": { "studiesLevel": null },
+        "work": {
+            "contractTypes": ["permanent", "freelance", "internship"],
+            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "searchState": "activelySearching",
+            "experienceYears": 0,
+            "codeExperienceYears": 2,
+            "otherExperienceYears": 3
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+        },
+        "interestedBy": "Angular, la blochain et les chatons."
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 },
+            { "type": "social", "variant": 4 }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
